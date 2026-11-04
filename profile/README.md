@@ -1,1 +1,1 @@
-# moved to [Zynvie](https://github.com/Zynvie)
+# renamed to [Zynvie](https://github.com/Zynvie)
